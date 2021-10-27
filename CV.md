@@ -1,6 +1,6 @@
 # Omair Khoder
 
-![](C:/Users/ProUser/repos/CV/OmairKh/Omair1.png)
+![](Omair1.png)
 ### Intermediate WEB DEVELOPER
 ____
 #### `About Me`
