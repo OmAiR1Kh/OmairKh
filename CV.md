@@ -1,6 +1,6 @@
 # Omair Khoder
 
-![](c:/MARKDOWN-CV/Omair1.png)
+![](C:/Users/ProUser/repos/CV/OmairKh/Omair1.png)
 ### Intermediate WEB DEVELOPER
 ____
 #### `About Me`
@@ -25,6 +25,9 @@ ____
 #### `languages`
 ____
 
+- Arabic  `Native language`
+- English `Advanced`
+- French `Intermidiate`
 ____
 #### `Personal skills`
 ____
